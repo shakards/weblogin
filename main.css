@@ -1,0 +1,167 @@
+body{
+  overflow:hidden;
+  background-color: black;
+}
+
+.reg{
+  height: auto;
+  width: 650px;
+  background-color: #ddd;
+  border-radius: 10px;
+  
+}
+.reg input{
+  border-width: 1px;
+  border-radius: 5px;
+  width: 300px;
+  height: 45px;
+  margin: 40px 10px;
+  margin-left: 25px;
+  margin-bottom: 0rem;
+  border: none;
+  }
+
+.reg label{
+
+  padding-left: 3%;
+}
+
+.reg img{
+  padding-left: 34%;
+}
+
+
+.reg h1{
+  text-align: center;
+  font-style: 36px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.reg p{
+  padding-left: 30%;
+}
+
+.reg a{
+  padding-left: 0%;
+  text-decoration: none;
+}
+
+.reg button{
+  padding: 5px;
+  margin-left: 35%;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  color: #202020;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  margin-top: 10px;
+}
+.reg .long{
+  width: 365px;
+}
+
+.reg .short{
+  width: 340px;
+}
+
+.reg .bet{
+  width: 345px;
+}
+
+  
+.font{
+  border-radius: 10px;
+  margin:5px 0px;
+  background-color: #ddd;
+  float: left;
+  width: 650px; 
+  height: auto;
+    
+  } 
+
+.font h1{
+  text-align: center;
+  font-style: 36px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+  
+.font input{
+  border-width: 1px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  width: 300px;
+  height: 45px;
+  margin-bottom: 0rem;
+  margin-left: 15px;
+} 
+.font p{
+  padding-left: 30%;
+}
+
+.font a{
+  padding-left: 0%;
+  text-decoration: none;
+}
+
+.font label{
+  margin-left: 10px;
+}
+
+.font .camp{
+  width: 325px;
+}
+
+.font img{
+  padding-left: 25%;
+}
+
+
+/* .len{
+  margin-top: 2rem;
+}
+
+a:hover{
+  background: red;
+}
+a:active{
+  color: green;
+} */
+
+
+
+.font button{
+  margin-left: 35%;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  color: #202020;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+}
+
+ 
+
+.xend{
+  border-radius: 5px;
+  width: 10px;
+  height: 710px;
+  background-color: rgb(120, 123, 123);
+  margin: 5px 5px;
+   
+  }
+  
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+   
+         
+       
+  
